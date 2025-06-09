@@ -1,6 +1,14 @@
 # Re-MTKD
+
+> **TODO**
+> - [ ] 📦 **Release Re-MTKD code & checkpoints**  
+> - [ ] 🔗 **Publish train/val/test split configuration files**
+
+---
+
 Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization”.
 
+---
 
 ## ✍️ Citation
 ```bibtex
