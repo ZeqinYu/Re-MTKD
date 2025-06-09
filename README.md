@@ -2,7 +2,7 @@
 
 > **TODO (coming soon!)**
 > - [ ] 📦 **Release Re-MTKD code & checkpoints**  
-> - [ ] 🔗 **Release train/val/test split configuration files**
+> - [ ] 🔗 **Release train/val/~~test~~ split configuration files**
 
 ---
 
