@@ -3,7 +3,7 @@
 > **TODO (coming soon!)**
 > - [ ] 📦 **Release Re-MTKD code & checkpoints**  
 > - [ ] 🔗 **Release train/val split configuration files**
-> - [x] [![Done] 🔗 **Release test split configuration files** (2025-6-9)
+> - [x] 🔗 ~~**Release test split configuration files**~~ (2025-6-9)
 
 ---
 
