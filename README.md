@@ -6,9 +6,9 @@ We have released the competition Docker implementation at [ICCV-DeepID2025-Sunli
 A testing-friendly code version will be released soon on this main repository.
 
 > **TODO**
-> - [x] 📦 **[2025.10.18]** **~~Release Re-MTKD code & checkpoints~~** 
-> - [x] 🔗 **[2025.10.18]** **~~Release train/val split configuration files~~** 
-> - [x] 🔗 **[2025.06.09]** **~~Release test split configuration files~~** 
+> - [x] 📦 **[2025.10.18]** ~~Release Re-MTKD code & checkpoints~~ 
+> - [x] 🔗 **[2025.10.18]** ~~Release train/val split configuration files~~ 
+> - [x] 🔗 **[2025.06.09]** ~~Release test split configuration files~~ 
 
 ---
 
