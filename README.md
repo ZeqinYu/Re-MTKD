@@ -27,4 +27,3 @@ Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced
   pages={995--1003},
   year={2025}
 }
-
