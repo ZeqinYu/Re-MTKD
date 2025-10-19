@@ -1,5 +1,8 @@
 # Re-MTKD
 
+## 📰 News
+* **[2025.10.18]** 🔥🔥 Our team won 1st place in both the Detection and Localization tracks of the ICCV 2025 DeepID Challenge.
+
 
 > **TODO**
 > - [x] 📦 **[2025.10.18]** **~~Release Re-MTKD code & checkpoints~~** 
