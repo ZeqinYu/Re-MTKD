@@ -29,8 +29,8 @@ Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced
 3. Test Model:
    You can test Re-MTKD by:
    ```bash
-python test.py
-```
+   python test.py
+   ```
 **Note: AAAI 2025 Re-MTKD uses "resize = True" for testing; ICCV DeepID 2025 competition uses "resize = False" for testing.**
 
 ## ✍️ Citation
