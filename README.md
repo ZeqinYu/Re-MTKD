@@ -1,5 +1,11 @@
 # Re-MTKD
 
+---
+
+Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization”.
+
+---
+
 ## 📰 News
 * **[2025.10.22]** We have released the testing code. If you have any questions, please feel free to contact us.
 * **[2025.10.18]** 🔥🔥 Our team won 1st place ×2 in both the Detection and Localization tracks of the ICCV 2025 DeepID Challenge using our Re-MTKD framework.
@@ -10,12 +16,6 @@ A testing-friendly code version will be released soon on this main repository.
 > - [x] 📦 **[2025.10.18]** ~~Release Re-MTKD code & checkpoints~~ 
 > - [x] 🔗 **[2025.10.18]** ~~Release train/val split configuration files~~ 
 > - [x] 🔗 **[2025.06.09]** ~~Release test split configuration files~~ 
-
----
-
-Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization”.
-
----
 
 ## 🎯 Test
 1. Clone the repository:
