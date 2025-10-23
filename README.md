@@ -17,6 +17,22 @@ Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced
 
 ---
 
+## 🎯 Test
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/ZeqinYu/Re-MTKD.git
+    cd Re-MTKD
+    ```
+2. Prepare Model:
+   The pretrained weights can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1WOZdJY3VJ5SWpqPYTttGA36dRcU1OGSf) or [Baidu Pan]( https://pan.baidu.com/s/1GhCtZWbWld9Zx7GGpJxcVQ) (42rp), and place the weights into `/yourpath/Re-MTKD/Cue_Net/checkpoint`. Then modify the `model_path` variable in `/yourpath/Re-MTKD/test.py` to test different models.
+
+3. Test Model:
+   You can test Re-MTKD by:
+   ```
+python test.py
+```
+**Note: AAAI 2025 Re-MTKD uses "resize = True" for testing; ICCV DeepID 2025 competition uses "resize = False" for testing.**
+
 ## ✍️ Citation
 ```bibtex
 @inproceedings{yu2025reinforced,
