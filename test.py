@@ -76,8 +76,8 @@ def main():
                         default='./Cue_Net/checkpoint/ICCV2025_DeepID_Detection_1st_Sunlight.pt')
     parser.add_argument('--img_size', type=list, default=[512, 512])
     parser.add_argument('--txt_list', type=str,
-                        default='/home/tianye/code/baseline-docker-main/FantasyIDiap-ICCV25-Challenge/ICCV_FakeID.txt')
-    parser.add_argument('--resize', type=bool, default=False)
+                        default='./test_datasets_txt/copymove_test+.txt')
+    parser.add_argument('--resize', type=bool, default=True)
     # AAAI 2025 Re-MTKD uses "resize = True" for testing,
     # ICCV DeepID 2025 competition uses "resize = False" for testing.
     parser.add_argument('--batch_size', type=int, default=1)
@@ -110,3 +110,4 @@ if __name__ == '__main__':
     set_seed(seed=98)
     print(f'=====Use {device}=========')
     main()
+
