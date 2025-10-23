@@ -31,7 +31,7 @@ Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced
    ```bash
    python test.py
    ```
-**Note: AAAI 2025 Re-MTKD uses "resize = True" for testing; ICCV DeepID 2025 competition uses "resize = False" for testing.**
+   **Note: AAAI 2025 Re-MTKD uses "resize = True" for testing; ICCV DeepID 2025 competition uses "resize = False" for testing.**
 
 ## ✍️ Citation
 ```bibtex
