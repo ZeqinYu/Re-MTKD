@@ -1,7 +1,7 @@
 # Re-MTKD
 
 ## 📰 News
-* **[2025.10.22]** We have released the testing code. For any questions, please feel free to contact us.
+* **[2025.10.22]** We have released the testing code. If you have any questions, please feel free to contact us.
 * **[2025.10.18]** 🔥🔥 Our team won 1st place ×2 in both the Detection and Localization tracks of the ICCV 2025 DeepID Challenge using our Re-MTKD framework.
 We have released the competition Docker implementation at [ICCV-DeepID2025-Sunlight](https://github.com/ZeqinYu/ICCV-DeepID2025-Sunlight), which follows the same format used in the official challenge.
 A testing-friendly code version will be released soon on this main repository.
