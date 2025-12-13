@@ -1,9 +1,10 @@
 # Re-MTKD
 
 ---
-Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization”. <br>
 
+Official implementation of Re-MTKD from our AAAI 2025 (Oral) paper “Reinforced Multi-teacher Knowledge Distillation for Efficient General Image Forgery Detection and Localization”. <br>
 [![arXiv](https://img.shields.io/badge/Arxiv-2504.05224-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2504.05224)
+
 ---
 
 ## 📰 News
